@@ -1,10 +1,10 @@
 # Product & Design for Agora
 
-## Agora Citizen Network Prototype 
+## Agora Citizen Network Prototypes
 
 File: https://www.figma.com/design/AD1cYjYTAz47YRInLqrLAV
 
-Onboarding:
+Onboarding With RariMe:
 https://www.figma.com/proto/AD1cYjYTAz47YRInLqrLAV?node-id=17579-39892
 
 Conversation & Moderation: 
