@@ -1,5 +1,8 @@
 # Product & Design for Agora
 
+## Agora Citizen Network Product Prioritization Matrix / Roadmap
+<img width="5183" alt="Prioritisation Matrix" src="https://github.com/user-attachments/assets/0f812b60-360d-4325-9b71-134ce39f1a34" />
+
 ## Agora Citizen Network Prototypes
 
 File: https://www.figma.com/design/AD1cYjYTAz47YRInLqrLAV
