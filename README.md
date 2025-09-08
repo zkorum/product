@@ -2,7 +2,7 @@
 
 ## Agora Citizen Network Product Prioritization Matrix / Roadmap
 
-[The roadmap is frequently updated in this link
+[The roadmap is frequently updated on this link
 ](https://github.com/zkorum/product/issues/34#issuecomment-2944640139)
 
 ## Agora Citizen Network Prototypes
