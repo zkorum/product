@@ -1,10 +1,9 @@
 # Product & Design for Agora
 
 ## Agora Citizen Network Product Prioritization Matrix / Roadmap
-<img width="5183" alt="Prioritisation Matrix" src="https://github.com/user-attachments/assets/0f812b60-360d-4325-9b71-134ce39f1a34" />
 
-
-[Link to the updated roadmap](https://github.com/zkorum/product/issues/34#issuecomment-2944640139)
+[The roadmap is frequently updated in this link
+](https://github.com/zkorum/product/issues/34#issuecomment-2944640139)
 
 ## Agora Citizen Network Prototypes
 
